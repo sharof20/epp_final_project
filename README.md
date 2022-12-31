@@ -1,6 +1,3 @@
-eppfinalproject
-===============
-
 [![image](https://img.shields.io/github/workflow/status/sharof20/eppfinalproject/main/main)](https://github.com/sharof20/eppfinalproject/actions?query=branch%3Amain)
 
 [![image](https://codecov.io/gh/sharof20/eppfinalproject/branch/main/graph/badge.svg)](https://codecov.io/gh/sharof20/eppfinalproject)
