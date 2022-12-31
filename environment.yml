@@ -37,7 +37,7 @@ dependencies:
   - pandas
   - statsmodels
   - python-graphviz
-  - python-kaleido
+  - python-kaleido==0.1.*
 
 
   - pip:
